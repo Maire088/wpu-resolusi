@@ -2,3 +2,6 @@ WPU RESOLUSI
 - mahir menggunakan GitHub
 - mengerti proses code dari antara file
 - membuat feature page mobile yang simple
+- test tambah
+123
+456
