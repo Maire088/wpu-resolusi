@@ -1,3 +1,7 @@
-rencana konten
-- bikin tutorial git hub
-- rekam short overview 
+rencana kedepan
+- mahir dalam javascript
+  - test test
+- membuat portfolio sendiri
+- membuat konten ??
+- test123
+- text tambahan
