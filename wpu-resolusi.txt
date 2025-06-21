@@ -1,11 +1,7 @@
 WPU RESOLUSI
 - mahir menggunakan GitHub
-- test tambah
-123
-456
 test123
 tambah reso baru
-
 -tambahan material
 ";
 ><
