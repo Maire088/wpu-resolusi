@@ -1,0 +1,3 @@
+rencana konten
+- bikin tutorial git hub
+- rekam short overview 
